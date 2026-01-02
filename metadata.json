@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Edge Vision Dashboard",
+  "description": "A high-performance monitoring interface for NVIDIA Xavier edge devices, featuring real-time vision analytics, telemetry visualization, and Gemini-powered semantic scene reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
